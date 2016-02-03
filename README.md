@@ -70,6 +70,13 @@ The full result comes back in the format of:
 }
 ```
 
+### NextLocal: Online Advertising Made Easy
+https://nextlocal.net
+https://nextlocal.io
+https://nextlocal.ca
+https://nextlocal.solar
+
+
 ### API
 
 #### #.search(query, options)
